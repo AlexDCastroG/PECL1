@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\PECLCastroGonzalezAlex\\main.cpp",
+  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\PECLCastroGonzalezAlex\\main.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\PECLCastroGonzalezAlex\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
