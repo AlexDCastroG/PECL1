@@ -1,19 +1,19 @@
-// #include "Controlador.hpp"
+#include "Controlador.hpp"
 #include <iostream>
 using namespace std;
 
 int main(int argc, char** argv)
 {
-	// Controlador controlador;
+	Controlador controlador;
 	char opcion;
 
 	do {
 
 		cout << "\n\t----------------------------------------------------------------------\n";
-		cout << "\tPacientes en la pila -> " << 0 /*controlador.pacientesEnPila()*/ << "\n\tPacientes en las colas:\n \t\tSala A-> " << 0 /*controlador.pacientesEnSalaA()*/ << "\tSala B-> "
-             << 0 /*controlador.pacientesEnSalaB()*/ << "\tSala C-> " << 0 /*controlador.pacientesEnSalaC()*/ << "\tSala D-> " << 0 /*controlador.pacientesEnSalaD()*/
-             << " \n\tPacientes en las listas:\n \t\tQuirofano Apendicitis-> " << 0 /*controlador.pacientesEnListaApendicitis()*/ << "\tQuirofano hernias-> " << 0 /*controlador.pacientesEnListaHernias()*/
-             << "\n\tPacientes en el arbol -> " << 0 /*controlador.pacientesEnArbol()*/ << "\n";
+		cout << "\tPacientes en la pila -> " << controlador.pacientesEnPila() << "\n\tPacientes en las colas:\n \t\tSala A-> " << controlador.pacientesEnSalaA() << "\tSala B-> "
+             << controlador.pacientesEnSalaB() << "\tSala C-> " << controlador.pacientesEnSalaC() << "\tSala D-> " << controlador.pacientesEnSalaD()
+             << " \n\tPacientes en las listas:\n \t\tQuirofano Apendicitis-> " << controlador.pacientesEnListaApendicitis() << "\tQuirofano hernias-> " << controlador.pacientesEnListaHernias()
+             << "\n\tPacientes en el arbol -> " << controlador.pacientesEnArbol() << "\n";
         cout << "\t----------------------------------------------------------------------\n\n";
 
 		cout << "\tA. Generar 12 pacientes de forma aleatoria y almacenarlos en la Pila.\n";
@@ -44,70 +44,70 @@ int main(int argc, char** argv)
 		cout << "\tIndique la opcion deseada: ";
 		cin >> opcion;
 		opcion = toupper(opcion);
-		// system("clear");
+		system("clear");
 		system("cls");
 
 		switch(opcion) {
 
 		case 'A':
-			// controlador.genera12Pacientes();
+			controlador.genera12Pacientes();
 			break;
 		case 'B':
-			// controlador.muestraPacientes()
+			controlador.muestraPacientes();
 			break;
 		case 'C':
-			// controlador.borraPacientesPila();
+			controlador.borraPacientesPila();
 			break;
 		case 'D':
-			// controlador.encolarPacientes();
+			controlador.encolarPacientes();
 			break;
 		case 'E':
-			// controlador.muestraPacientesSalasAyB();
+			controlador.muestraPacientesSalasAyB();
 			break;
 		case 'F':
-			// controlador.muestraPacientesSalasCyD();
+			controlador.muestraPacientesSalasCyD();
 			break;
 		case 'G':
-			// controlador.borraPacientesColas();
+			controlador.borraPacientesColas();
 			break;
 		case 'H':
-			// controlador.enlistarPacientes();
+			controlador.enlistarPacientes();
 			break;
 		case 'I':
-			// controlador.muestraPacientesApendicitis();
+			controlador.muestraPacientesApendicitis();
 			break;
 		case 'J':
-			// controlador.muestraPacientesHernias();
+			controlador.muestraPacientesHernias();
 			break;
 		case 'K':
-			// controlador.buscarPacientes();
+			controlador.buscarPacientes();
 			break;
 		case 'L':
-			// controlador.reiniciar();
+			controlador.reiniciar();
 			break;
 		case 'M':
-			//...;
+			...;
 			break;
 		case 'N':
-			//...;
+			...;
 			break;
 		case 'O':
-			//...;
+			...;
 			break;
 		case 'P':
-			//...;
+			...;
 			break;
 		case 'Q':
-			//...;
+			...;
 			break;
 		case 'R':
-			//...;
+			...;
 			break;
 		case 'T':
-			//...;
+			...;
 			break;
 		case 'U':
-			//...;
+			...;
 			break;
 		case 'S':
 			cout << "Saliendo del programa...\n";
