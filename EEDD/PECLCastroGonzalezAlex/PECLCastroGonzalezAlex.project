@@ -95,8 +95,12 @@
   <VirtualDirectory Name="src">
     <VirtualDirectory Name="Header Files">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <File Name="../../../../../Downloads/Controlador.hpp"/>
 =======
+=======
+      <File Name="Controlador.hpp"/>
+>>>>>>> b74fc62745c73b97d5078f921973270b063264b6
       <File Name="Lista.hpp"/>
       <File Name="NodoLista.hpp"/>
 >>>>>>> a48ae141fa484dcfedd3b3baf8dca8b960ca43dd
@@ -108,8 +112,12 @@
     </VirtualDirectory>
     <VirtualDirectory Name="Source Files">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <File Name="../../../../../Downloads/Controlador.cpp"/>
 =======
+=======
+      <File Name="Controlador.cpp"/>
+>>>>>>> b74fc62745c73b97d5078f921973270b063264b6
       <File Name="Lista.cpp"/>
       <File Name="NodoLista.cpp"/>
 >>>>>>> a48ae141fa484dcfedd3b3baf8dca8b960ca43dd
