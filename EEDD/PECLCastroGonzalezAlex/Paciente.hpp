@@ -24,9 +24,9 @@ private:
     char dni[10];
     int id;
     int habitacion;
-    bool apendicitis; // true (1) = apendicitis, false (0) = hernias
+    bool apendicitis;
 
     void generarDNI();
 };
 
-#endif // PACIENTE_HPP
+#endif

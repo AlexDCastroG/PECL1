@@ -48,4 +48,4 @@ private:
     void inicializarRegistros();
 };
 
-#endif // CONTROLADOR_HPP
+#endif

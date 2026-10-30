@@ -21,4 +21,4 @@ private:
     int longitud;
 };
 
-#endif // LISTA_HPP
+#endif

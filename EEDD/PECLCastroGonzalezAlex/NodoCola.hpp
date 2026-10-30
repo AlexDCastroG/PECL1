@@ -20,4 +20,4 @@ private:
 
 typedef NodoCola* pnodoCola;
 
-#endif // NODOCOLA_HPP
+#endif

@@ -10,7 +10,6 @@ void Lista::insertarOrden(Paciente v)
 {
     pnodoLista nuevo = new NodoLista(v);
 
-    // Inserción en orden descendente de ID (mayor ID = mayor prioridad al inicio)
     if (!primero || v.getId() > primero->valor.getId()) {
         nuevo->siguiente = primero;
         primero = nuevo;

@@ -20,4 +20,4 @@ private:
     int longitud;
 };
 
-#endif // COLA_HPP
+#endif

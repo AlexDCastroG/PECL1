@@ -20,4 +20,4 @@ private:
 
 typedef NodoPila* pnodoPila;
 
-#endif // NODOPILA_HPP
+#endif

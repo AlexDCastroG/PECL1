@@ -3,7 +3,7 @@
 Paciente::Paciente()
 {
     generarDNI();
-    apendicitis = rand() % 2; // 1: apendicitis, 0: hernias
+    apendicitis = rand() % 2;
     id = 0;
     habitacion = 0;
 }

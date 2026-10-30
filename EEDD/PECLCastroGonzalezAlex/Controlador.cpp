@@ -24,9 +24,9 @@ int Controlador::generarIdUnico(bool esApendicitis)
     int id;
     do {
         if (esApendicitis)
-            id = 1 + rand() % 49;  // Entre 1 y 49
+            id = 1 + rand() % 49;
         else
-            id = 51 + rand() % 49; // Entre 51 y 99
+            id = 51 + rand() % 49;
     } while (idsUsados[id]);
 
     idsUsados[id] = true;
@@ -38,9 +38,9 @@ int Controlador::generarHabitacionUnica(bool esApendicitis)
     int hab;
     do {
         if (esApendicitis)
-            hab = 101 + rand() % 99; // Entre 101 y 199
+            hab = 101 + rand() % 99;
         else
-            hab = 201 + rand() % 99; // Entre 201 y 299
+            hab = 201 + rand() % 99;
     } while (habitacionesUsadas[hab]);
 
     habitacionesUsadas[hab] = true;
@@ -84,7 +84,7 @@ int Controlador::pacientesEnListaHernias()
 
 int Controlador::pacientesEnArbol()
 {
-    return 0; // Se implementa en la Parte 2
+    return 0;
 }
 
 void Controlador::genera12Pacientes()

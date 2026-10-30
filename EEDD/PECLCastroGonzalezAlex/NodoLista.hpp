@@ -20,4 +20,4 @@ private:
 
 typedef NodoLista* pnodoLista;
 
-#endif // NODOLISTA_HPP
+#endif
