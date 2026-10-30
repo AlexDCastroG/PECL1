@@ -1,105 +1,69 @@
 [{
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Controlador.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Controlador.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Controlador.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoLista.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoLista.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoLista.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Lista.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Lista.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Lista.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Lista.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Lista.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Lista.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoLista.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoLista.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoLista.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Pila.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Pila.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Cola.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Cola.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Cola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Cola.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Cola.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Cola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "file": "C:\\Users\\Nico\\Downloads\\Controlador.cpp",
-  "directory": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\Nico\\Downloads\\Controlador.cpp -o C:\\Users\\Nico\\Downloads\\Controlador.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Paciente.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Paciente.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Paciente.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.cpp",
-  "directory": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.cpp -o C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoLista.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoLista.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoLista.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.hpp",
-  "directory": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.hpp -o C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Paciente.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Paciente.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Paciente.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Nico\\Downloads\\Controlador.hpp",
-  "directory": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\Nico\\Downloads\\Controlador.hpp -o C:\\Users\\Nico\\Downloads\\Controlador.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Lista.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Lista.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Lista.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.cpp",
-  "directory": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.cpp -o C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
-=======
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoLista.cpp",
-=======
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Controlador.cpp",
->>>>>>> b74fc62745c73b97d5078f921973270b063264b6
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Controlador.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Controlador.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Pila.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Pila.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Pila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Paciente.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Paciente.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Paciente.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
->>>>>>> a48ae141fa484dcfedd3b3baf8dca8b960ca43dd
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoPila.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoPila.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoPila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Pila.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Pila.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Controlador.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Controlador.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Controlador.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-<<<<<<< HEAD
-  "file": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.hpp",
-  "directory": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.hpp -o C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoCola.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoCola.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoCola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.hpp",
-  "directory": "C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.hpp -o C:\\Users\\Nico\\Documents\\GitHub\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
-=======
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoPila.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoPila.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoPila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Lista.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Lista.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Lista.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Pila.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Pila.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\Pila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
->>>>>>> a48ae141fa484dcfedd3b3baf8dca8b960ca43dd
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoCola.hpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoCola.hpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\src\\NodoCola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Paciente.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Paciente.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Paciente.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoLista.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoLista.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\NodoLista.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Controlador.hpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Controlador.hpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\Controlador.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\main.cpp",
-  "directory": "C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex",
-  "command": "clang++ -c C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\main.cpp -o C:\\Users\\alexd\\Documents\\EEDD\\PECL1\\EEDD\\PECLCastroGonzalezAlex\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\main.cpp",
+  "directory": "C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex",
+  "command": "clang++ -c \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\main.cpp\" -o \"C:\\Users\\Nico\\Desktop\\Uni\\2DO\\1er cuatri\\EEDD\\lab\\EEDD\\PECLCastroGonzalezAlex\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

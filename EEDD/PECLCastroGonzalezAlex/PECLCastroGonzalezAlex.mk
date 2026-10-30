@@ -6,16 +6,16 @@
 ProjectName            :=PECLCastroGonzalezAlex
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :=C:/Users/alexd/Documents/EEDD/PECL1/EEDD
-ProjectPath            :=C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex
+WorkspacePath          :="C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD"
+ProjectPath            :="C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex"
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/PECLCastroGonzalezAlex
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
-User                   :=alexd
-Date                   :=10/29/2026
-CodeLitePath           :=C:/Users/alexd/Documents/codelite-amd64-17.0.0/codelite-amd64-17.0.0/codelite
+User                   :=Nico
+Date                   :=10/30/2026
+CodeLitePath           :=C:/Users/Nico/Downloads/codelite-amd64-17.0.0/codelite
 MakeDirCommand         :=mkdir
 LinkerName             :=g++
 SharedObjectLinkerName :=g++ -shared -fPIC
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/Users/alexd/Documents/EEDD/PECL1/EEDD/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -63,8 +63,8 @@ AS       := as
 ##
 ## User defined environment variables
 ##
-CodeLiteDir:=C:\Users\alexd\Downloads\codelite-amd64-17.0.0\codelite-amd64-17.0.0\codelite
-Objects0=$(IntermediateDirectory)/NodoCola.cpp$(ObjectSuffix) $(IntermediateDirectory)/Controlador.cpp$(ObjectSuffix) $(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IntermediateDirectory)/Cola.cpp$(ObjectSuffix) $(IntermediateDirectory)/NodoLista.cpp$(ObjectSuffix) $(IntermediateDirectory)/Lista.cpp$(ObjectSuffix) $(IntermediateDirectory)/Paciente.cpp$(ObjectSuffix) $(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) 
+CodeLiteDir:=C:\Users\Nico\Downloads\codelite-amd64-17.0.0\codelite
+Objects0=$(IntermediateDirectory)/src_Pila.cpp$(ObjectSuffix) $(IntermediateDirectory)/src_NodoPila.cpp$(ObjectSuffix) $(IntermediateDirectory)/src_NodoCola.cpp$(ObjectSuffix) $(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IntermediateDirectory)/src_Lista.cpp$(ObjectSuffix) $(IntermediateDirectory)/src_Controlador.cpp$(ObjectSuffix) $(IntermediateDirectory)/src_Cola.cpp$(ObjectSuffix) $(IntermediateDirectory)/src_Paciente.cpp$(ObjectSuffix) $(IntermediateDirectory)/src_NodoLista.cpp$(ObjectSuffix) 
 
 
 
@@ -95,50 +95,50 @@ PreBuild:
 ##
 ## Objects
 ##
-$(IntermediateDirectory)/NodoCola.cpp$(ObjectSuffix): NodoCola.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/NodoCola.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/NodoCola.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/NodoCola.cpp$(PreprocessSuffix): NodoCola.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/NodoCola.cpp$(PreprocessSuffix) NodoCola.cpp
+$(IntermediateDirectory)/src_Pila.cpp$(ObjectSuffix): src/Pila.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/Pila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_Pila.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_Pila.cpp$(PreprocessSuffix): src/Pila.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_Pila.cpp$(PreprocessSuffix) src/Pila.cpp
 
-$(IntermediateDirectory)/Controlador.cpp$(ObjectSuffix): Controlador.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/Controlador.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Controlador.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Controlador.cpp$(PreprocessSuffix): Controlador.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Controlador.cpp$(PreprocessSuffix) Controlador.cpp
+$(IntermediateDirectory)/src_NodoPila.cpp$(ObjectSuffix): src/NodoPila.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/NodoPila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_NodoPila.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_NodoPila.cpp$(PreprocessSuffix): src/NodoPila.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_NodoPila.cpp$(PreprocessSuffix) src/NodoPila.cpp
 
-$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix): Pila.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/Pila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Pila.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Pila.cpp$(PreprocessSuffix): Pila.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Pila.cpp$(PreprocessSuffix) Pila.cpp
-
-$(IntermediateDirectory)/Cola.cpp$(ObjectSuffix): Cola.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/Cola.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Cola.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Cola.cpp$(PreprocessSuffix): Cola.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Cola.cpp$(PreprocessSuffix) Cola.cpp
-
-$(IntermediateDirectory)/NodoLista.cpp$(ObjectSuffix): NodoLista.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/NodoLista.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/NodoLista.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/NodoLista.cpp$(PreprocessSuffix): NodoLista.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/NodoLista.cpp$(PreprocessSuffix) NodoLista.cpp
-
-$(IntermediateDirectory)/Lista.cpp$(ObjectSuffix): Lista.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/Lista.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Lista.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Lista.cpp$(PreprocessSuffix): Lista.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Lista.cpp$(PreprocessSuffix) Lista.cpp
-
-$(IntermediateDirectory)/Paciente.cpp$(ObjectSuffix): Paciente.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/Paciente.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/Paciente.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/Paciente.cpp$(PreprocessSuffix): Paciente.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/Paciente.cpp$(PreprocessSuffix) Paciente.cpp
-
-$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix): NodoPila.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/NodoPila.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/NodoPila.cpp$(ObjectSuffix) $(IncludePath)
-$(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix): NodoPila.cpp
-	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/NodoPila.cpp$(PreprocessSuffix) NodoPila.cpp
+$(IntermediateDirectory)/src_NodoCola.cpp$(ObjectSuffix): src/NodoCola.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/NodoCola.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_NodoCola.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_NodoCola.cpp$(PreprocessSuffix): src/NodoCola.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_NodoCola.cpp$(PreprocessSuffix) src/NodoCola.cpp
 
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/alexd/Documents/EEDD/PECL1/EEDD/PECLCastroGonzalezAlex/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
+
+$(IntermediateDirectory)/src_Lista.cpp$(ObjectSuffix): src/Lista.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/Lista.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_Lista.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_Lista.cpp$(PreprocessSuffix): src/Lista.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_Lista.cpp$(PreprocessSuffix) src/Lista.cpp
+
+$(IntermediateDirectory)/src_Controlador.cpp$(ObjectSuffix): src/Controlador.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/Controlador.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_Controlador.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_Controlador.cpp$(PreprocessSuffix): src/Controlador.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_Controlador.cpp$(PreprocessSuffix) src/Controlador.cpp
+
+$(IntermediateDirectory)/src_Cola.cpp$(ObjectSuffix): src/Cola.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/Cola.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_Cola.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_Cola.cpp$(PreprocessSuffix): src/Cola.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_Cola.cpp$(PreprocessSuffix) src/Cola.cpp
+
+$(IntermediateDirectory)/src_Paciente.cpp$(ObjectSuffix): src/Paciente.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/Paciente.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_Paciente.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_Paciente.cpp$(PreprocessSuffix): src/Paciente.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_Paciente.cpp$(PreprocessSuffix) src/Paciente.cpp
+
+$(IntermediateDirectory)/src_NodoLista.cpp$(ObjectSuffix): src/NodoLista.cpp 
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/Users/Nico/Desktop/Uni/2DO/1er cuatri/EEDD/lab/EEDD/PECLCastroGonzalezAlex/src/NodoLista.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/src_NodoLista.cpp$(ObjectSuffix) $(IncludePath)
+$(IntermediateDirectory)/src_NodoLista.cpp$(PreprocessSuffix): src/NodoLista.cpp
+	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/src_NodoLista.cpp$(PreprocessSuffix) src/NodoLista.cpp
 
 ##
 ## Clean

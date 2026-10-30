@@ -1,4 +1,4 @@
-#include "Controlador.hpp"
+#include "src/Controlador.hpp"
 #include <iostream>
 using namespace std;
 
@@ -86,28 +86,28 @@ int main(int argc, char** argv)
 			controlador.reiniciar();
 			break;
 		case 'M':
-			...;
+			//...;
 			break;
 		case 'N':
-			...;
+			//...;
 			break;
 		case 'O':
-			...;
+			//...;
 			break;
 		case 'P':
-			...;
+			//...;
 			break;
 		case 'Q':
-			...;
+			//...;
 			break;
 		case 'R':
-			...;
+			//...;
 			break;
 		case 'T':
-			...;
+			//...;
 			break;
 		case 'U':
-			...;
+			//...;
 			break;
 		case 'S':
 			cout << "Saliendo del programa...\n";

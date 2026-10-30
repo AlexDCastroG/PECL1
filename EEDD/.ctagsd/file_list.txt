@@ -1,0 +1,17 @@
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Pila.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\NodoPila.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\NodoLista.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\NodoCola.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Lista.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Controlador.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\main.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\NodoCola.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Pila.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Lista.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\NodoPila.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Controlador.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Cola.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Cola.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Paciente.hpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\Paciente.cpp
+C:\Users\Nico\Desktop\Uni\2DO\1er cuatri\EEDD\lab\EEDD\PECLCastroGonzalezAlex\src\NodoLista.cpp
