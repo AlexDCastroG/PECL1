@@ -2,8 +2,6 @@
 #define PACIENTE_HPP
 
 #include <iostream>
-#include <cstdlib>
-#include <cstring>
 
 using namespace std;
 

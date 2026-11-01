@@ -2,8 +2,8 @@
 
 Paciente::Paciente()
 {
-    generarDNI();
-    apendicitis = rand() % 2;
+    this->generarDNI();
+    this->apendicitis = (rand() % 2);
     id = 0;
     habitacion = 0;
 }
@@ -15,14 +15,15 @@ Paciente::~Paciente()
 void Paciente::generarDNI()
 {
     char letras[] = "TRWAGMYFPDXBNJZSQVHLCKE";
-    int numero = 0;
-    for (int i = 0; i < 8; i++) {
-        int digito = rand() % 10;
-        dni[i] = '0' + digito;
-        numero = numero * 10 + digito;
+    int numDNI = 0, aux = 1E7;
+    for(int i = 0; i < 8; i++) {
+        int num = rand() % 10;
+        this->dni[i] = '0' + num;
+        numDNI = numDNI + num * aux;
+        aux /= 10;
     }
-    dni[8] = letras[numero % 23];
-    dni[9] = '\0';
+    this->dni[8] = letras[numDNI % 23];
+    this->dni[9] = '\0';
 }
 
 bool Paciente::tieneApendicitis()
